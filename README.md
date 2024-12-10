@@ -2,6 +2,10 @@
 
 This is a robust chat application that allows users to communicate seamlessly across languages. It features **offline chat translation** to ensure uninterrupted communication even without internet access.  
 
+<video width="320" height="240" controls>
+  <source src="Video.mp4" type="video/mp4">
+</video>
+
 ## Key Features  
 - **Language-Based Chatting**: Users can select their preferred language, and messages are automatically translated for smooth communication.  
 - **Offline Translation**: The app uses offline translation libraries to provide real-time translation even without internet connectivity.   
