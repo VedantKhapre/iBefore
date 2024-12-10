@@ -15,4 +15,4 @@ Download the latest APK from the [Releases Page](https://github.com/VedantKhapre
 ### Clone Repository  
 
    ```bash  
-   git clone [https://github.com/VedantKhapre/iBefore.git] 
+   git clone https://github.com/VedantKhapre/iBefore.git
